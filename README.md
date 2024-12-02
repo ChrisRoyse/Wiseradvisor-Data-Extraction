@@ -1,11 +1,23 @@
+# WiserAdvisor Financial Advisors Scraper
+
+![WiserAdvisor Logo](https://www.wiseradvisor.com/favicon.ico)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Logging](#logging)
+- [Output](#output)
+- [Error Handling](#error-handling)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 
-Financial Advisors Scraper is a Python-based web scraping tool designed to extract comprehensive data on financial advisors from [WiserAdvisor](https://www.wiseradvisor.com). The scraper navigates through various states and cities in the Northern areas of Greater Cincinnati, collecting essential information such as business names, addresses, contact details, industries, and key decision-makers. The extracted data is organized into a CSV file for easy access and further analysis, aiding marketing and outreach efforts for commercial cleaning companies.
+The **WiserAdvisor Financial Advisors Scraper** is a Python-based web scraping tool designed to extract comprehensive data on financial advisors from [WiserAdvisor](https://www.wiseradvisor.com). This scraper navigates through various states and cities in the Northern areas of Greater Cincinnati, collecting essential information such as company names, contact details, addresses, industries, and key decision-makers. The extracted data is organized into a CSV file, facilitating marketing and outreach efforts for commercial cleaning companies or other businesses seeking detailed financial advisor information.
 
 ## Features
 
@@ -25,12 +37,6 @@ Before running the scraper, ensure you have the following installed on your syst
   - `requests`
   - `beautifulsoup4`
   - `lxml`
-  - `re`
-  - `csv`
-  - `time`
-  - `logging`
-  - `urllib`
-  - `os`
 
 You can install the required libraries using `pip`:
 
