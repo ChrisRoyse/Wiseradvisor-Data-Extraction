@@ -1,7 +1,5 @@
 # WiserAdvisor Financial Advisors Scraper
 
-![WiserAdvisor Logo](https://www.wiseradvisor.com/favicon.ico)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
