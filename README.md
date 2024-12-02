@@ -1,7 +1,3 @@
-# Financial Advisors Scraper
-
-![Logo](https://example.com/logo.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
