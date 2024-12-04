@@ -1,4 +1,3 @@
-```markdown
 # Financial Advisors Web Scraper
 
 A Python-based web scraper that extracts detailed information about financial advisors from [WiserAdvisor](https://www.wiseradvisor.com). The scraper navigates through states and cities to collect data such as company name, advisor name, contact information, and address details. The collected data is saved into a CSV file for easy analysis and usage.
